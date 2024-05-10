@@ -65,7 +65,7 @@ h2{
     color: #15525D;
     padding: 1em; 
 }
-.card{
+.card {
     width: 10em;
     height: 30em;
     border: 1px solid #ccc; 
@@ -142,4 +142,7 @@ footer{
 #logo-bottom{
     padding: 2em;
     width: 10%;
+}
+.card:hover{
+    cursor: pointer;
 }
