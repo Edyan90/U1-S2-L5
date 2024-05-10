@@ -1,1 +1,145 @@
 /* Your styles here */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E9EDEE;
+}
+#logo-up {
+    width: 8%;
+    padding: 0.25em;
+    padding-left: 1.5em;
+}
+#sfondoblue{
+    background-color: #222F3F;
+}
+#sfondonav{
+    background-color: #364759;
+    padding: 0.35em;
+    padding-left: 1em;
+}
+.nav{
+    color: white;
+    padding-inline: 0.5em;
+    text-decoration: none;
+    
+}
+#orangetop{
+    background-color: #F56600;
+    color: white;
+    padding: 0.5em;
+    text-align: center;
+}
+#margine{
+    margin: 1.5em;
+}
+#container{
+    
+    margin: 1.5em;
+}
+h3{
+    font-size: small;
+    
+
+}
+#Holidays{
+    background-image: url("..//images/bg-image.png");
+    font-size: x-large;
+    font-weight: 900;
+    color: white;
+    padding: 1.5em;
+    text-align: center;
+    margin-bottom: 1em;
+    line-height: 1.8em;
+}
+#sfondoBianco{
+    background-color: white;
+    padding: 1.5em;
+padding-bottom: 0em;
+
+}
+h2{
+   
+    font-weight: 550;
+    font-size: medium;
+}
+#shopnow{
+    color: #15525D;
+    padding: 1em; 
+}
+.card{
+    width: 10em;
+    height: 30em;
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+    box-shadow: 4px 5px 15px 4px rgba(0,0,0,0.39);
+    margin: 2.5em;
+   
+    display:inline-block;
+    padding: 100px; 
+    border-bottom: 1px solid #ccc;
+    object-fit: contain;
+}
+#kindle{
+    background-image: url("../images/img_1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#pc{
+    background-image: url("../images/img_2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#smartwatch{
+    background-image: url("../images/img_3.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#pets{
+    background-image: url("../images/img_4.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#VR{
+    width:100%;
+    margin-top: 1.5em;
+    margin-bottom:0.3em;
+}
+#comodino{
+    width:100%;
+    margin-top: 1.5em;
+}
+#testo{
+    text-align: center;
+    font-weight: 600;
+    font-size: medium;
+}
+#shop-gaming{
+    color: #184B54;
+    font-size: small;
+    padding: 1em;
+}
+#testo-bottom{
+    text-align: center;
+    font-weight: 600;
+    font-size: medium;
+}
+#shop-audio{
+    color: #184B54;
+    font-size: small;
+    padding: 1em;
+}
+#backtotop{
+    background-color: #364759;
+    text-align: center;
+    color: white;
+}
+#div-llogo-bottom{
+    background-color:#222F3F ;
+}
+footer{
+    background-color:#222F3F ;
+    text-align: center;
+}
+#logo-bottom{
+    padding: 2em;
+    width: 10%;
+}
